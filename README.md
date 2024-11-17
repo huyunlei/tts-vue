@@ -2,7 +2,7 @@
 
 🎤 微软语音合成工具，使用 `Electron` + `Vue` + `ElementPlus` + `Vite` 构建.
 
-## 开始使用sss
+## 开始使用ssseee
 
 - [项目简介](https://loker-page.lgwawork.com/guide/intro.html)
 
